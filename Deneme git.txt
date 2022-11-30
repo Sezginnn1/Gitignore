@@ -1,0 +1,9 @@
+git Github 2.gün ilk deneme
+git Github 2.gün ikinci deneme
+git Github 2.gün ucuncu deneme
+git Github 2.gün SEZGİN BRANCH'I deneme
+git Github 2.gün MASTER BRANCH'I deneme
+git Github 2.gün SEZGİN BRANCH'I ikinci deneme
+git Github 2.gün GÜLER BRANCH'I ilk  deneme
+git Github 3.gün SEZGİN BRANCH'I ilk deneme deneme
+git Github 3.gün SEZGİN BRANCH'I 2. deneme deneme
